@@ -2,7 +2,7 @@ package cond.ex;
 
 public class ScoreEx {
     public static void main(String[] args) {
-        int score = 0;
+        int score = 100;
         
         if (score >= 90) {
             System.out.println("학점은 A입니다.");
